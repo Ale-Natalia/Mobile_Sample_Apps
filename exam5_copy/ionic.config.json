@@ -1,0 +1,7 @@
+{
+  "name": "cl2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
